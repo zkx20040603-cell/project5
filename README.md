@@ -1,5 +1,8 @@
 # 📊 Google Sheets 연동 회계장부 대시보드 프로젝트
 
+> C 담당 최신 규격·검증 도구·운영 안내: [C 인계 문서](docs/C_HANDOFF.md).
+> 현재 B 구현은 공개 CSV 직접 조회 방식이며, 기존 GCP 안내는 비공개 API 전환 시 적용합니다.
+
 > **구글 시트(Google Sheets)로 관리하는 회계 데이터를 GitHub Actions를 통해 자동으로 수집/정제하고, GitHub Pages로 시각화하여 함께 조회하는 대시보드 웹 서비스**
 
 ---
